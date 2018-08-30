@@ -1,8 +1,9 @@
-# Jupyter Notebook Lab on the Basics of Reinforcement Learning
 
-This is a private repository for setting up a basic reinforcement learning labs based on jupyter notebooks.
+This repository contains labs for understanding and coding basic reinforcement learning concepts based on jupyter notebooks.
 
 The labs are intended for being available to anyone through internet, so the assignments should be self-explanatory.
+
+Most of the work was done by Yasmine Hamdani during a one month master internship
 
 ## Getting Started
 
@@ -11,7 +12,7 @@ The labs are intended for being available to anyone through internet, so the ass
 Get this repository using
 
 ```
-git clone https://github.com/Yasmine-H/RL-Basics-Jupyter-Notebook.git
+git clone https://github.com/osigaud/rl_labs_notebooks.git
 ```
 
 ### Prerequisites
@@ -39,7 +40,7 @@ cat "$path2" > "$path1"
 
 Note : In order to enable the imports between notebooks, we used the [ipynb library](https://github.com/ipython/ipynb). 
 
-The syntax to import a function, say sarsa from the reinforcement_learning notebook, is as follows:
+The syntax to import a function, say sarsa() from the reinforcement_learning notebook, is as follows:
 
 ``` 
 from ipynb.fs.defs.reinforcement_learning import sarsa

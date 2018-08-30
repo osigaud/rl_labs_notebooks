@@ -1,0 +1,5 @@
+matplotlib==2.2.2
+numpy==1.15.0
+jupyter-client==5.2.3
+jupyter-console==5.2.0
+ipynb==0.5.1

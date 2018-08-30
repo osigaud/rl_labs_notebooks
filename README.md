@@ -3,7 +3,7 @@ This repository contains labs for understanding and coding basic reinforcement l
 
 The labs are intended for being available to anyone through internet, so the assignments should be self-explanatory.
 
-Most of the work was done by Yasmine Hamdani during a one month master internship
+Most of the work was done by Yasmine Hamdani (https://github.com/Yasmine-H ) during a one month master internship
 
 ## Getting Started
 

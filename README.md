@@ -34,7 +34,7 @@ path1=$(locate new_ipynb_utils/utils.py)
 
 path2=$(locate ipynb/utils.py)
 
-cat "$path2" > "$path1"
+cat "$path1" > "$path2"
 
 ```
 
